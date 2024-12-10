@@ -30,7 +30,7 @@ This project enables management team to:
 
 1. *Dashboard Screenshot*: dashboard_preview.png - A screenshot of the final dashboard.
 2. *Power BI File*: Call_Center_Manager.pbix - The Power BI project file.
-3. *Data File*: data.csv (example) - Data used for visualization.
+3. *Data File*: Call-Center-Dataset.xlsx - Data used for visualization.
 
 ## 📜 How to Use
 
